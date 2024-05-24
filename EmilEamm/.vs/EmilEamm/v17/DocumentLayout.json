@@ -1,0 +1,458 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\emileamm\\areas\\admin\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\areas\\admin\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|c:\\users\\ca.r214.10\\desktop\\emilexam\\emileamm\\emileamm\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|c:\\users\\ca.r214.10\\desktop\\emilexam\\emileamm\\emileamm\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|c:\\users\\ca.r214.10\\desktop\\emilexam\\emileamm\\emileamm\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\emileamm\\viewmodels\\member\\getmembervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\viewmodels\\member\\getmembervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\emileamm\\viewmodels\\member\\getadminmembervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\viewmodels\\member\\getadminmembervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|c:\\users\\ca.r214.10\\desktop\\emilexam\\emileamm\\emileamm\\views\\home\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\views\\home\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|c:\\users\\ca.r214.10\\desktop\\emilexam\\emileamm\\emileamm\\views\\home\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\views\\home\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|c:\\users\\ca.r214.10\\desktop\\emilexam\\emileamm\\emileamm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\emileamm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\emileamm\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|c:\\users\\ca.r214.10\\desktop\\emilexam\\emileamm\\emileamm\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\emileamm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|c:\\users\\ca.r214.10\\desktop\\emilexam\\emileamm\\emileamm\\services\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\services\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\emileamm\\dal\\examcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\dal\\examcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\emileamm\\extension\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\extension\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|c:\\users\\ca.r214.10\\desktop\\emilexam\\emileamm\\emileamm\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Migrations\\20240524083322_settiingsadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmilEamm\\Migrations\\20240524083322_settiingsadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|c:\\users\\ca.r214.10\\desktop\\emilexam\\emileamm\\emileamm\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\emileamm\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\emileamm\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\emileamm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|c:\\users\\ca.r214.10\\desktop\\emilexam\\emileamm\\emileamm\\areas\\admin\\views\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\areas\\admin\\views\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\emileamm\\areas\\admin\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\areas\\admin\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\emileamm\\areas\\admin\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90BEC881-76FE-4CE2-BB64-4B6A7F4E58C4}|EmilEamm\\EmilEamm.csproj|solutionrelative:emileamm\\areas\\admin\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 414,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LayoutService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Services\\LayoutService.cs",
+              "RelativeDocumentMoniker": "EmilEamm\\Services\\LayoutService.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Services\\LayoutService.cs",
+              "RelativeToolTip": "EmilEamm\\Services\\LayoutService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:38:49.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240524083322_settiingsadded.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Migrations\\20240524083322_settiingsadded.cs",
+              "RelativeDocumentMoniker": "EmilEamm\\Migrations\\20240524083322_settiingsadded.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Migrations\\20240524083322_settiingsadded.cs",
+              "RelativeToolTip": "EmilEamm\\Migrations\\20240524083322_settiingsadded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:33:22.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Views\\Home\\Components\\Footer\\Default.cshtml",
+              "RelativeDocumentMoniker": "EmilEamm\\Views\\Home\\Components\\Footer\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Views\\Home\\Components\\Footer\\Default.cshtml",
+              "RelativeToolTip": "EmilEamm\\Views\\Home\\Components\\Footer\\Default.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:21:32.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Views\\Home\\Components\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "EmilEamm\\Views\\Home\\Components\\Header\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Views\\Home\\Components\\Header\\Default.cshtml",
+              "RelativeToolTip": "EmilEamm\\Views\\Home\\Components\\Header\\Default.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:21:02.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FooterViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeDocumentMoniker": "EmilEamm\\ViewComponents\\FooterViewComponent.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeToolTip": "EmilEamm\\ViewComponents\\FooterViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:19:12.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HeaderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeDocumentMoniker": "EmilEamm\\ViewComponents\\HeaderViewComponent.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeToolTip": "EmilEamm\\ViewComponents\\HeaderViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:16:18.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "EmilEamm\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "EmilEamm\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T07:49:42.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "EmilEamm\\Models\\Setting.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Models\\Setting.cs",
+              "RelativeToolTip": "EmilEamm\\Models\\Setting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:24:37.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "EmilEamm\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Models\\Member.cs",
+              "RelativeToolTip": "EmilEamm\\Models\\Member.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:23:42.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmilEamm\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmilEamm\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T07:20:49.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "EmilEamm\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "EmilEamm\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T07:04:06.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExamContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\DAL\\ExamContext.cs",
+              "RelativeDocumentMoniker": "EmilEamm\\DAL\\ExamContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\DAL\\ExamContext.cs",
+              "RelativeToolTip": "EmilEamm\\DAL\\ExamContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:58:22.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "EmilEamm\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "EmilEamm\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:57:55.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Program.cs",
+              "RelativeDocumentMoniker": "EmilEamm\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Program.cs",
+              "RelativeToolTip": "EmilEamm\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:52:59.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "EmilEamm\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Models\\AppUser.cs",
+              "RelativeToolTip": "EmilEamm\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:51:41.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EmilEamm\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EmilEamm\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:26:10.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmilEamm\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EmilEamm\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKABAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:19:39.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetMemberVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\ViewModels\\Member\\GetMemberVM.cs",
+              "RelativeDocumentMoniker": "EmilEamm\\ViewModels\\Member\\GetMemberVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\ViewModels\\Member\\GetMemberVM.cs",
+              "RelativeToolTip": "EmilEamm\\ViewModels\\Member\\GetMemberVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:20:07.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmilEamm\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "EmilEamm\\Areas\\Admin\\Views\\Member\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:04:54.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Extension\\FileExtension.cs",
+              "RelativeDocumentMoniker": "EmilEamm\\Extension\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Extension\\FileExtension.cs",
+              "RelativeToolTip": "EmilEamm\\Extension\\FileExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:59:25.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Areas\\Admin\\Views\\Member\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmilEamm\\Areas\\Admin\\Views\\Member\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Areas\\Admin\\Views\\Member\\Edit.cshtml",
+              "RelativeToolTip": "EmilEamm\\Areas\\Admin\\Views\\Member\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:58:06.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Areas\\Admin\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmilEamm\\Areas\\Admin\\Views\\Member\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Areas\\Admin\\Views\\Member\\Create.cshtml",
+              "RelativeToolTip": "EmilEamm\\Areas\\Admin\\Views\\Member\\Create.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwCcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:26:41.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAdminMemberVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\ViewModels\\Member\\GetAdminMemberVM.cs",
+              "RelativeDocumentMoniker": "EmilEamm\\ViewModels\\Member\\GetAdminMemberVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\ViewModels\\Member\\GetAdminMemberVM.cs",
+              "RelativeToolTip": "EmilEamm\\ViewModels\\Member\\GetAdminMemberVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:16:11.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "EmilEamm\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "EmilEamm\\Areas\\Admin\\Controllers\\MemberController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwEwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:38:07.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmilEamm\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.10\\Desktop\\EmilExam\\EmilEamm\\EmilEamm\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmilEamm\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:27:30.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 139,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
